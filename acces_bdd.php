@@ -1,5 +1,5 @@
 <?PHP
-
+/* Nouveu commentaire test*/
 $sql_debug = 1;
 
 
